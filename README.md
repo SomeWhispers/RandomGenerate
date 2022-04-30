@@ -7,5 +7,6 @@ xがyより大きければ分類ラベル:1、xがyより小さければ分類�
 
 ## 参考
 iPentec様の以下の記事を参考に作成
+
 https://www.ipentec.com/document/csharp-ml-net-create-simple-data-classification-application
 https://www.ipentec.com/document/csharp-text-save-to-file
